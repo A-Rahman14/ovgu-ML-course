@@ -1,1 +1,1 @@
-# ovgu-NSI-course
+# ovgu-ML-course
